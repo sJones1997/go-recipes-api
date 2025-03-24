@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 	"regexp"
-	"recipe_rest_api/pkg/httphelpers"
+	"github.com/sJones1997/go-recipes-api/pkg/httphelpers"
 )
 
 type Handler struct {

@@ -1,4 +1,4 @@
-module recipe_rest_api
+module github.com/sJones1997/go-recipes-api
 
 go 1.24.1
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-    "recipe_rest_api/pkg/recipes"
+    "github.com/sJones1997/go-recipes-api/pkg/recipes"
 )
 
 func main() {
